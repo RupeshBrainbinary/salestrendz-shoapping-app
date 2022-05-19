@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "133440558493",
+    "project_id": "sales-trendz",
+    "storage_bucket": "sales-trendz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133440558493:android:2fc072be2b0a487fb0cb74",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133440558493-3rc8upmg1h4ohpc250vo162mk72m14rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxCxmdOiGkNmgBw-iBKd3ehGrh7Ucxho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133440558493-3rc8upmg1h4ohpc250vo162mk72m14rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133440558493-mjg7mocueq4tac140j363valsvo3a9tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingapp123"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133440558493:android:88afad522b1a2393b0cb74",
+        "android_client_info": {
+          "package_name": "com.app.qone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133440558493-3rc8upmg1h4ohpc250vo162mk72m14rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxCxmdOiGkNmgBw-iBKd3ehGrh7Ucxho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133440558493-3rc8upmg1h4ohpc250vo162mk72m14rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133440558493-mjg7mocueq4tac140j363valsvo3a9tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingapp123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
